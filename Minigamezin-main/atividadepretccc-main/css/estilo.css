@@ -1,0 +1,10 @@
+*{ 
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.bord{
+	width: 80%;
+	height:500px;
+	border: 1px solid black;
+}
